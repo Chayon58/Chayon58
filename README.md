@@ -20,11 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayon58&theme=midnight-purple&hide_border=false" alt="Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=Chayon58&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
 

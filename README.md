@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" /><br/>
+  <br/><img src="https://github-readme-stats.vercel.app/api?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayon58&theme=midnight-purple&hide_border=false" alt="Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayon58&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=Chayon58&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />

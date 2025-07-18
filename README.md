@@ -44,11 +44,13 @@
 ### Tools:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-3C8DAD?style=for-the-badge&logo=draw.io&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![daily.dev](https://img.shields.io/badge/daily.dev-282C34?style=for-the-badge&logo=daily.dev&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-3C8DAD?style=for-the-badge&logo=draw.io&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
@@ -56,9 +58,9 @@
 ### Interpersonal Skills:
 <p>
   <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=teamwork&logoColor=white" alt="Teamwork"/>
+  <img src="https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge&logo=communication&logoColor=white" alt="Communication"/>
   <img src="https://img.shields.io/badge/Decision_Making-2196F3?style=for-the-badge&logo=decision-making&logoColor=white" alt="Decision Making"/>
   <img src="https://img.shields.io/badge/Hardworking-FBC02D?style=for-the-badge&logo=hardworking&logoColor=white" alt="Hardworking"/>
-  <img src="https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge&logo=communication&logoColor=white" alt="Communication"/>
 </p>
 
 

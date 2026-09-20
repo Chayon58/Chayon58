@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQWxwkm yExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 🌱 I’m currently learning Web Development<br><br>🚀 I’m looking to collaborate on Github<br><br>🎯 Focused on Frontend Projects<br><br>💬 Ask me anything on <a href="https://discord.com/channels/1395383186447667281/1395383187022151733">here</a>
- <br><br>📫 How to reach me: <a href="mailto:chayonbiswas8610@gmail.com">chayonbiswas8610@gmail.com</a> <br><br><br>
+ <br><br>📫 How to reach me: <a href="mailto:chayonbiswas872@gmail.com">chayonbiswas872@gmail.com</a> <br><br><br>
 
 
 
